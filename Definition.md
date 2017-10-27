@@ -15,3 +15,12 @@ _**Expression**_
 - **b** is a variable expression
 - **b * 2** is an arithmetic expression
 - **a = b * 2** is an assignment expression
+
+_**Interpreting**_
+> Ausführen von Code Zeile für Zeile von oben nach unten
+
+_**Compiling**_
+> Erst wird der Code kompiliert, dann ausgeführt
+
+_**Coercion**_
+> Typumwandlung
