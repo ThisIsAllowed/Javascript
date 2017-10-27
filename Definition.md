@@ -10,7 +10,7 @@ a = b * 2;
 ```
 
 _**Expression**_
-- 2 is a literal value expression
-- b is a variable expression, which means to retrieve its current value
-- b * 2 is an arithmetic expression, which means to do the multiplication
-- a = b * 2 is an assignment expression, which means to assign the result of the b * 2 expression to the variable a (more on assignments later)
+- _**2**_ is a literal value expression
+- _**b**_ is a variable expression
+- _**b * 2**_ is an arithmetic expression
+- _**a = b * 2**_ is an assignment expression
