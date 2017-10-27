@@ -4,7 +4,7 @@
 |---|
 
 _**Statement**_
-> In a computer language, a group of words, numbers, and operators that performs a specific task is a statement.
+> A group of words, numbers, and operators that performs a specific task. Auch: Befehl, Kommando
 ```javascript
 a = b * 2;
 ```
