@@ -1,3 +1,3 @@
 # Definitionen
 
-#### _**YDKJS UP & GOING 1**_
+#### _**UP & GOING 1**_
