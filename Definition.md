@@ -39,3 +39,6 @@ _**Arguments**_
 ```javascript
 myfunc(1,2);
 ```
+
+| _**Up & Going 2**_ |
+|---|
