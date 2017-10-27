@@ -4,13 +4,13 @@
 |---|
 
 _**Statement**_
-> **Befehl, Kommando**:
+> **Befehl, Kommando**
 ```javascript
 a = b * 2;
 ```
 
 _**Expression**_
-> **Ausdruck**:
+> **Ausdruck**
 > - **2** is a literal value expression
 > - **b** is a variable expression
 > - **b * 2** is an arithmetic expression
