@@ -4,7 +4,7 @@
 |---|
 
 _**Statement**_
-> **Befehl, Kommando**: A group of words, numbers, and operators that performs a specific task.
+> **Befehl, Kommando**:
 ```javascript
 a = b * 2;
 ```
