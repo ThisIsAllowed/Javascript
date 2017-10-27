@@ -1,2 +1,4 @@
 # Javascript
-JS
+
+| Definitionen | Funktionen | Merksätze |
+| --- | --- | --- |
