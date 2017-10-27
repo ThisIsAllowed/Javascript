@@ -5,6 +5,6 @@
 
 _**Statement**_
 > In a computer language, a group of words, numbers, and operators that performs a specific task is a statement.
-Bsp.: a = b * 2;
+> a = b * 2;
 
 _**Expression**_
