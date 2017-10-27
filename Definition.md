@@ -24,3 +24,18 @@ _**Compiling**_
 
 _**Coercion**_
 > Typumwandlung
+
+_**Iteration**_
+> Jedesmal wenn der code block ausgeführt wird, ist es eine Iteration
+
+_**Parameters**_
+Aliases passed to the function
+```javascript
+function myfunc(a,b) {}
+```
+
+_**Arguments**_
+Actual values the function is called with
+```javascript
+myfunc(1,2);
+```
