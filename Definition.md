@@ -4,7 +4,7 @@
 |---|
 
 _**Statement**_
-> A group of words, numbers, and operators that performs a specific task. Auch: Befehl, Kommando
+> _**Befehl, Kommando**_ A group of words, numbers, and operators that performs a specific task.
 ```javascript
 a = b * 2;
 ```
