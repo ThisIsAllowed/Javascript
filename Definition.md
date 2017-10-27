@@ -26,7 +26,7 @@ _**Coercion**_
 > Typumwandlung
 
 _**Iteration**_
-> Jedesmal wenn der code block ausgeführt wird, ist es eine Iteration
+> Jedesmal wenn der Codeblock in einer Schleife ausgeführt wird, ist es eine Iteration
 
 _**Parameters**_
 > Aliases passed to the function
