@@ -29,13 +29,13 @@ _**Iteration**_
 > Jedesmal wenn der Codeblock in einer Schleife ausgeführt wird, ist es eine Iteration
 
 _**Parameters**_
-> Aliases passed to the function
+> Aliases die der Funktion übergeben werden
 ```javascript
 function myfunc(a,b) {}
 ```
 
 _**Arguments**_
-> Actual values the function is called with
+> Werte mit denen die Funktion aufgerufen wird
 ```javascript
 myfunc(1,2);
 ```
