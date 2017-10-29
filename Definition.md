@@ -42,3 +42,29 @@ myfunc(1,2);
 
 | _**Up & Going 2**_ |
 |---|
+
+FUNKTIONEN ALS WERTE
+function foo() {}
+foo ist eine Variable im äußeren umschließenden Scope mit einer Referenz auf die deklarierte Funktion
+-> Funktionen an sich sind Werte wie 42 oder [1,2,3]
+D.h. Funktionen können Variablen zugewisen werden, als Argumente verwendet werden oder von anderen Funktionen zurückgegeben werden
+
+As such, a function value should be thought of as an expression, much like any other value or expression.
+
+IMMEDIATELY INVOKED FUNCTION EXPRESSIONS (IIFEs)
+(function iife() {
+console.log("Hi!");
+})();
+// "Hi!"
+
+Because an IIFE is just a function, and functions create variable scope, using an IIFE in this fashion is often used to declare variables that won't affect the surrounding code outside the IIFE
+
+var x = (function returnedNumber() {
+return 42;
+})();
+
+x; // 42
+
+returnedNumber wird ausgeführt und weist x den Wert 42 zu
+
+CLOSURE
